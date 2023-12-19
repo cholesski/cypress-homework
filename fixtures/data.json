@@ -1,0 +1,15 @@
+{
+    "userDataInvalid" : {
+        "username" : "standard_user",
+        "password" : "abcdefg1234"
+    },
+    "userDataValid" : {
+        "username" : "standard_user", 
+        "password" : "secret_sauce"
+    }, 
+    "customer" : {
+        "firstname" : "Ana",
+        "lastname" : "Mihajlvoic", 
+        "zip" : "11000" 
+    }
+}
